@@ -18,6 +18,7 @@ The goal of this repo is to:
 - Even & Odd Number
 - Palindrome Number
 - Reverse a Number
+- Prime number 
 
 ### 🔹 Arrays
 - Largest Element in Array
