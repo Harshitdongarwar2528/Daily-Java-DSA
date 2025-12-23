@@ -19,6 +19,7 @@ The goal of this repo is to:
 - Palindrome Number
 - Reverse a Number
 - Prime number 
+- Plaindrome Range
 
 ### 🔹 Arrays
 - Largest Element in Array
