@@ -17,9 +17,9 @@ The goal of this repo is to:
 ### 🔹 Number Problems
 - Even & Odd Number
 - Palindrome Number
-- Reverse a Number
-- Prime number 
 - Plaindrome Range
+- Positive and Negative
+- Prime number 
 
 ### 🔹 Arrays
 - Largest Element in Array
