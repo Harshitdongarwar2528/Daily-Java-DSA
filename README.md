@@ -23,7 +23,8 @@ The goal of this repo is to:
 
 ### 🔹 Arrays
 - Largest Element in Array
-- Second Largest Element
+- Smallest Element in Array
+- Second Largest & Smallest Element
 - Reverse an Array
 - Frequency of Elements
 
