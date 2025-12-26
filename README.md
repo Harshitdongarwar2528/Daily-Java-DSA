@@ -25,6 +25,7 @@ The goal of this repo is to:
 - Largest Element in Array
 - Smallest Element in Array
 - Second Largest & Smallest Element
+- Increasing and Decreasing order 
 - Reverse an Array
 - Frequency of Elements
 
