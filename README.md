@@ -30,8 +30,7 @@ The goal of this repo is to:
 - Frequency of Elements
 
 ### 🔹 Strings
-- Palindrome String
-- Character Frequency in String
+- Reverse String
 
 ### 🔹 Sorting Algorithms
 - Bubble Sort
@@ -60,7 +59,7 @@ To become strong in **DSA with Java** and crack **software developer roles throu
 ---
 
 ## 📅 Progress
-- Week 1: Basics of Numbers, Arrays, and Strings ✅  
+- Week 1: Basics of Numbers, Arrays ✅  
 - More advanced topics coming soon...
 
 ---
