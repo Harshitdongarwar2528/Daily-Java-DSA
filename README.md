@@ -33,7 +33,7 @@ The goal of this repo is to:
 - Reverse String
 - Ascending and Descending order 
 - Character Frequency [using hashmap] 
-- String Frequency [using count].
+- String Frequency [using count]
 
 ### 🔹 Sorting Algorithms
 - Bubble Sort
