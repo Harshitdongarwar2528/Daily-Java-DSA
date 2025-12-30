@@ -28,6 +28,7 @@ The goal of this repo is to:
 - Increasing and Decreasing order 
 - Reverse an Array
 - Frequency of Elements
+- Sum of Elements 
 
 ### 🔹 Strings
 - Reverse String
