@@ -29,6 +29,7 @@ The goal of this repo is to:
 - Reverse an Array
 - Frequency of Elements
 - Sum of Elements 
+- Rotation Left and right 
 
 ### 🔹 Strings
 - Reverse String
