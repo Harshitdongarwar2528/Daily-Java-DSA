@@ -30,6 +30,7 @@ The goal of this repo is to:
 - Frequency of Elements
 - Sum of Elements 
 - Rotation Left and right 
+- Average of All Elements
 
 ### 🔹 Strings
 - Reverse String
