@@ -38,6 +38,14 @@ The goal of this repo is to:
 - Character Frequency [using hashmap] 
 - String Frequency [using count]
 
+### 🔹 OOPS [Object Oriendted Programming]
+ **Inheritance**
+ 
+ - Single Level Inheritance
+ - Multi Level Inheritance
+ - Hierarchichal Inheritance
+
+
 ### 🔹 Sorting Algorithms
 - Bubble Sort
 - Selection Sort
