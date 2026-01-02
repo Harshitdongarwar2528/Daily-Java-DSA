@@ -31,6 +31,7 @@ The goal of this repo is to:
 - Sum of Elements 
 - Rotation Left and right 
 - Average of All Elements
+- Median of Array
 
 ### 🔹 Strings
 - Reverse String
