@@ -32,6 +32,7 @@ The goal of this repo is to:
 - Rotation Left and right 
 - Average of All Elements
 - Median of Array
+- Remove Duplicates of an sorted array
 
 ### 🔹 Strings
 - Reverse String
