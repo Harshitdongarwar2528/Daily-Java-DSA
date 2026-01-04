@@ -33,6 +33,7 @@ The goal of this repo is to:
 - Average of All Elements
 - Median of Array
 - Remove Duplicates of an sorted array
+- Remove Duplicates of an unsorted array
 
 ### 🔹 Strings
 - Reverse String
