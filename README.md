@@ -34,6 +34,7 @@ The goal of this repo is to:
 - Median of Array
 - Remove Duplicates of an sorted array
 - Remove Duplicates of an unsorted array
+- Insert the Element at the beginning
 
 ### 🔹 Strings
 - Reverse String
