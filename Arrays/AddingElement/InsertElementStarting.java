@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.AddingElement;
 
 class Soln {
     public static int[] insertAtBegining(int[] arr, int x) {

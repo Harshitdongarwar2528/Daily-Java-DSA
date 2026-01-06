@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.RemovingElement;
 
 import java.util.ArrayList;
 

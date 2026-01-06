@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.AddingElement;
 
 class Solutions {
     public static int[] insertAtEnding(int[] arr, int x) {
