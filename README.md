@@ -36,6 +36,8 @@ The goal of this repo is to:
 - Remove Duplicates of an unsorted array
 - Insert the Element at the beginning
 - Insert the Element at the ending
+- Insert the Element at a specific Position
+- Find the Repeating Elements 
 
 ### 🔹 Strings
 - Reverse String
