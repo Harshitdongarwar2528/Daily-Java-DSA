@@ -38,6 +38,7 @@ The goal of this repo is to:
 - Insert the Element at the ending
 - Insert the Element at a specific Position
 - Find the Repeating Elements 
+- Find Non Repeating Elements
 
 ### 🔹 Strings
 - Reverse String
