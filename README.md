@@ -39,6 +39,7 @@ The goal of this repo is to:
 - Insert the Element at a specific Position
 - Find the Repeating Elements 
 - Find Non Repeating Elements
+- Find all Symmetric Pairs in an Array
 
 ### 🔹 Strings
 - Reverse String
