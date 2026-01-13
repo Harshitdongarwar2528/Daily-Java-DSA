@@ -5,16 +5,16 @@ class Animal{
         System.out.println("The animal is a mamal ");
     }
 }
-class Dog extends Animal{
-    void barks(){
+class Doggy extends Animal{
+    void barking(){
         System.out.println("The Dog is Barking ");
     }
 }
 
 public class SingleLevel{
     public static void main(String[] args) {
-        Dog d = new Dog();
+        Doggy d = new Doggy();
         d.mammals(); // inherits from Animals
-        d.barks(); // Dogs own method 
+        d.barking(); // Dogs own method 
     }
 }

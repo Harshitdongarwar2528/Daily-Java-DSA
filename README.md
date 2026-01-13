@@ -54,6 +54,10 @@ The goal of this repo is to:
  - Multi Level Inheritance
  - Hierarchichal Inheritance
 
+  **Polymorphism**
+
+  - Method Overloading (Compile time)
+
 
 ### 🔹 Sorting Algorithms
 - Bubble Sort
