@@ -57,6 +57,7 @@ The goal of this repo is to:
   **Polymorphism**
 
   - Method Overloading (Compile time)
+  - Method Overriding  (Run time)
 
 
 ### 🔹 Sorting Algorithms
