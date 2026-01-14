@@ -40,6 +40,7 @@ The goal of this repo is to:
 - Find the Repeating Elements 
 - Find Non Repeating Elements
 - Find all Symmetric Pairs in an Array
+- Maximum Product of the sub Array
 
 ### 🔹 Strings
 - Reverse String
