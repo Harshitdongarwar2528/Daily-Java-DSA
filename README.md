@@ -41,6 +41,7 @@ The goal of this repo is to:
 - Find Non Repeating Elements
 - Find all Symmetric Pairs in an Array
 - Maximum Product of the sub Array
+- Linear Search of an Array 
 
 ### 🔹 Strings
 - Reverse String

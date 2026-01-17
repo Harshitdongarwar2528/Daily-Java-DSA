@@ -1,11 +1,11 @@
 package OOPS.Inheritance;
 
-class Animal{
+class animal{
     void mammals(){
         System.out.println("The animal is a mamal ");
     }
 }
-class Doggy extends Animal{
+class Doggy extends animal{
     void barking(){
         System.out.println("The Dog is Barking ");
     }
