@@ -43,6 +43,7 @@ The goal of this repo is to:
 - Maximum Product of the sub Array
 - Linear Search of an Array 
 - Binary Search of an Array
+- Subset of an Array 
 
 ### 🔹 Strings
 - Reverse String
