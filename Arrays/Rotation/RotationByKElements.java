@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Rotation;
 
 import java.util.Arrays;
 
@@ -30,7 +30,7 @@ class Sol {
     }
 }
 
-public class Rotation {
+public class RotationByKElements {
     public static void main(String[] args) {
         Sol s = new Sol();
         int[] arr = { 1, 2, 3, 4, 5 };
