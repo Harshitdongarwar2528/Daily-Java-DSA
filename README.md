@@ -29,7 +29,7 @@ The goal of this repo is to:
 - Reverse an Array
 - Frequency of Elements
 - Sum of Elements 
-- Rotation Left and right 
+- Rotation by Block Swap Algorithm 
 - Average of All Elements
 - Median of Array
 - Remove Duplicates of an sorted array
@@ -44,6 +44,8 @@ The goal of this repo is to:
 - Linear Search of an Array 
 - Binary Search of an Array
 - Subset of an Array 
+- Rotation Left and right 
+
 
 ### 🔹 Strings
 - Reverse String
