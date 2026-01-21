@@ -29,6 +29,7 @@ The goal of this repo is to:
 - Reverse an Array
 - Frequency of Elements
 - Sum of Elements 
+
 - Rotation by Block Swap Algorithm 
 - Average of All Elements
 - Median of Array
@@ -37,6 +38,7 @@ The goal of this repo is to:
 - Insert the Element at the beginning
 - Insert the Element at the ending
 - Insert the Element at a specific Position
+
 - Find the Repeating Elements 
 - Find Non Repeating Elements
 - Find all Symmetric Pairs in an Array
