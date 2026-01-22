@@ -128,6 +128,7 @@ To become strong in **DSA with Java** and crack **software developer roles throu
 -Week 4 :
 - Rotation Left and right ✅
 - Replace each element by its rank✅
+- Frequency Sort ✅
 
 - More advanced topics coming soon...
 
