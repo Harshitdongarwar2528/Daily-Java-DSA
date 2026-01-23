@@ -129,6 +129,8 @@ To become strong in **DSA with Java** and crack **software developer roles throu
 - Rotation Left and right ✅
 - Replace each element by its rank✅
 - Frequency Sort ✅
+- Equilibrium Index ✅
+
 
 - More advanced topics coming soon...
 
