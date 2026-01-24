@@ -130,6 +130,7 @@ To become strong in **DSA with Java** and crack **software developer roles throu
 - Replace each element by its rank✅
 - Frequency Sort ✅
 - Equilibrium Index ✅
+- Custom Sort ✅
 
 
 - More advanced topics coming soon...
