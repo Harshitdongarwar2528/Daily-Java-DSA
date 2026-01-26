@@ -72,6 +72,10 @@ The goal of this repo is to:
   **Abstraction**
   - Abstraction 
 
+ **Encapsulation**
+ - Encapsulation
+
+
 ### 🔹 Sorting Algorithms
 - Bubble Sort
 - Selection Sort
