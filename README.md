@@ -20,6 +20,7 @@ The goal of this repo is to:
 - Plaindrome Range
 - Positive and Negative
 - Prime number 
+- Prime Range 
 
 ### 🔹 Arrays
 - Largest Element in Array
