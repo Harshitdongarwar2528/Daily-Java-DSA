@@ -21,6 +21,7 @@ The goal of this repo is to:
 - Positive and Negative
 - Prime number 
 - Prime Range 
+- ArmStrong Number 
 
 ### 🔹 Arrays
 - Largest Element in Array
