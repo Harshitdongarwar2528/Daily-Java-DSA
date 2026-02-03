@@ -1,86 +1,75 @@
-Daily practice of Data Structures and Algorithms in Java
 # Daily Java DSA 🚀
 
-This repository contains my daily practice of **Data Structures and Algorithms using Java**.  
-I am starting from the basics and gradually moving towards advanced problems step-by-step for **placement preparation (off-campus & on-campus)**.
+This repository contains my **daily practice of Data Structures and Algorithms using Java**.  
+I am starting from the basics and gradually moving toward advanced problems for **placement preparation (off-campus & on-campus)**.
 
-The goal of this repo is to:
+## 🎯 Objectives
 - Build strong problem-solving fundamentals
-- Stay consistent with daily coding
+- Maintain consistency with daily coding
 - Track my DSA learning journey
 - Improve logic, optimization, and coding style
 
 ---
 
-## ✅ Topics Covered So Far
+## ✅ Topics Covered
 
 ### 🔹 Number Problems
-- Even & Odd Number
-- Palindrome Number
-- Plaindrome Range
-- Positive and Negative
-- Prime number 
-- Prime Range 
-- ArmStrong Number 
+- Even & Odd Number  
+- Positive & Negative Number  
+- Prime Number  
+- Prime Numbers in a Range  
+- Palindrome Number  
+- Palindrome Numbers in a Range  
+- Armstrong Number  
 
 ### 🔹 Arrays
-- Largest Element in Array
-- Smallest Element in Array
-- Second Largest & Smallest Element
-- Increasing and Decreasing order 
-- Reverse an Array
-- Frequency of Elements
-- Sum of Elements 
-
-- Rotation by Block Swap Algorithm 
-- Average of All Elements
-- Median of Array
-- Remove Duplicates of an sorted array
-- Remove Duplicates of an unsorted array
-- Insert the Element at the beginning
-- Insert the Element at the ending
-- Insert the Element at a specific Position
-
-- Find the Repeating Elements 
-- Find Non Repeating Elements
-- Find all Symmetric Pairs in an Array
-- Maximum Product of the sub Array
-- Linear Search of an Array 
-- Binary Search of an Array
-- Subset of an Array 
-
-- Rotation Left and right 
-- Replace each element by its rank
-
+- Largest / Smallest Element  
+- Second Largest & Second Smallest  
+- Increasing & Decreasing Order  
+- Reverse an Array  
+- Frequency of Elements  
+- Sum & Average of Elements  
+- Median of an Array  
+- Array Rotation (Left & Right)  
+- Block Swap Algorithm  
+- Remove Duplicates (Sorted & Unsorted)  
+- Insert Element (Beginning, End, Specific Position)  
+- Repeating & Non-Repeating Elements  
+- Symmetric Pairs  
+- Maximum Product Subarray  
+- Linear Search  
+- Binary Search  
+- Subset of an Array  
+- Replace Each Element by Its Rank  
+- Frequency Sort  
+- Equilibrium Index  
+- Custom Sort  
 
 ### 🔹 Strings
-- Reverse String
-- Ascending and Descending order 
-- Character Frequency [using hashmap] 
-- String Frequency [using count]
+- Reverse String  
+- Ascending & Descending Order  
+- Character Frequency (using HashMap)  
+- String Frequency (using counting)
 
-### 🔹 OOPS [Object Oriendted Programming]
- **Inheritance**
- 
- - Single Level Inheritance
- - Multi Level Inheritance
- - Hierarchichal Inheritance
+### 🔹 OOPS (Object-Oriented Programming)
+**Inheritance**
+- Single Level  
+- Multilevel  
+- Hierarchical  
 
-  **Polymorphism**
+**Polymorphism**
+- Method Overloading (Compile-time)  
+- Method Overriding (Run-time)  
 
-  - Method Overloading (Compile time)
-  - Method Overriding  (Run time)
+**Abstraction**
+- Abstract Classes & Methods  
 
-  **Abstraction**
-  - Abstraction 
-
- **Encapsulation**
- - Encapsulation
-
+**Encapsulation**
+- Data Hiding & Access Control  
 
 ### 🔹 Sorting Algorithms
-- Bubble Sort
-- Selection Sort
+- Bubble Sort  
+- Selection Sort  
 
 ---
 
@@ -90,58 +79,42 @@ The goal of this repo is to:
 ---
 
 ## 📌 Practice Strategy
-- I revise problems multiple times to strengthen logic and improve memory.
-- I update solutions with:
-  - Better approaches
-  - Code optimization
-  - Multiple methods
+- Problems are solved using **multiple approaches** where possible  
+- Focus on:
   - Time & Space Complexity
+  - Code readability
+  - Optimization
+- Regular revision to strengthen concepts
 
 ---
 
-## 🎯 Goal
-To become strong in **DSA with Java** and crack **software developer roles through off-campus and on-campus placements**.
+## 📅 Weekly Progress
+
+**Week 1 – Array Basics** ✅  
+Largest, Smallest, Reverse, Frequency, Sum, Order Problems
+
+**Week 2 – Array Operations** ✅  
+Rotation, Median, Duplicates, Insert Operations
+
+**Week 3 – Searching & Advanced Arrays** ✅  
+Repeating Elements, Symmetric Pairs, Subarrays, Search Algorithms
+
+**Week 4 – Advanced Array Logic** ✅  
+Rank Replacement, Frequency Sort, Equilibrium Index
+
+**Week 5 – Number Problems** ✅  
+Prime, Palindrome, Armstrong, Ranges
 
 ---
 
-## 📅 Progress
-- Week 1: 
-- Largest Element in Array✅
-- Smallest Element in Array✅
-- Second Largest & Smallest Element✅
-- Increasing and Decreasing order✅ 
-- Reverse an Array✅
-- Frequency of Elements✅
-- Sum of Elements  ✅
-
--Week 2 :
-- Rotation by Block Swap Algorithm ✅
-- Average of All Elements✅
-- Median of Array✅
-- Remove Duplicates of an sorted array✅
-- Remove Duplicates of an unsorted array✅
-- Insert the Element at the beginning✅
-- Insert the Element at the ending✅
-- Insert the Element at a specific Position✅
-
--Week 3 :
-- Find the Repeating Elements ✅
-- Find Non Repeating Elements✅
-- Find all Symmetric Pairs in an Array✅
-- Maximum Product of the sub Array✅
-- Linear Search of an Array ✅
-- Binary Search of an Array✅
-- Subset of an Array ✅
-
--Week 4 :
-- Rotation Left and right ✅
-- Replace each element by its rank✅
-- Frequency Sort ✅
-- Equilibrium Index ✅
-- Custom Sort ✅
-
-
-- More advanced topics coming soon...
+## 🚀 Upcoming Topics
+- Recursion
+- Stack & Queue
+- Linked List
+- Hashing
+- Sliding Window
+- Two Pointer Technique
+- Trees & Graphs (Basics)
 
 ---
 
