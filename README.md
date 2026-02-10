@@ -21,6 +21,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Palindrome Number  
 - Palindrome Numbers in a Range  
 - Armstrong Number  
+- Perfect Number 
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
