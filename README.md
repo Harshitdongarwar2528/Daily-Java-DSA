@@ -23,6 +23,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Armstrong Number  
 - Perfect Number 
 - Sum of n natural Number
+- Sum of AP (Arithmatic Progression) Series
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
