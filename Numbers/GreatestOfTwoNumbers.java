@@ -1,13 +1,16 @@
 public class GreatestOfTwoNumbers {
     public static void main(String[] args) {
-        int[] arr = { 1, 2, 3, 4, 5 };
-        int num = arr[0];
-        for (int i = 1; i < arr.length; i++) {
-            if (arr[i] > num) {
-                num = arr[i];
-            }
-        }
-        System.out.println("Greatest number is " + num);
+        // Declare two double values
+        double num1 = 1.123;
+        double num2 = 1.124;
 
+        // Compare the two numbers using if-else
+        if (num1 < num2) {
+            // num2 is greater
+            System.out.println("The greatest of the two numbers is " + num2);
+        } else {
+            // num1 is greater or equal
+            System.out.println("The greatest of the two numbers is " + num1);
+        }
     }
 }
