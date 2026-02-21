@@ -26,6 +26,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Sum of AP (Arithmatic Progression) Series
 - Sum of GP (Geometric Progression) Series
 - Greatest of two numbers 
+- Greatest of three numbers
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
