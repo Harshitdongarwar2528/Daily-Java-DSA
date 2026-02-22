@@ -1,3 +1,4 @@
+package Numbers;
 public class GreatestOfTwoNumbers {
     public static void main(String[] args) {
         // Declare two double values
