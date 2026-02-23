@@ -28,6 +28,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Greatest of two numbers 
 - Greatest of three numbers
 - Leap Year
+- Maximum & Minimum Number 
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
