@@ -29,6 +29,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Greatest of three numbers
 - Leap Year
 - Maximum & Minimum Number 
+- Reverse the digit 
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
