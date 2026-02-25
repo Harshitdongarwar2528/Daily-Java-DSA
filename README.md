@@ -60,6 +60,10 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Character Frequency (using HashMap)  
 - String Frequency (using counting)
 
+### 🔹 Logic_Problems
+This folder contains various logic-building problems
+-
+
 ### 🔹 OOPS (Object-Oriented Programming)
 **Inheritance**
 - Single Level  
