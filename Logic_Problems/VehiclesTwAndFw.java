@@ -22,7 +22,7 @@ public class VehiclesTwAndFw {
     
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
-        System.out.println("please enter the number of vehciles");
+        System.out.println("please enter the number of vehicles");
         int v = sc.nextInt();
         System.out.println("please enter the number of wheels");
         int w = sc.nextInt();
