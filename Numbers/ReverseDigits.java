@@ -1,3 +1,4 @@
+package Numbers;
 class RevDig {
     public int revNum(int n) {
         int revNum = 0;
