@@ -64,6 +64,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 This folder contains various logic-building problems
 - Vehicles Tow Wheelers as well as Four wheelers
 - Stars And Hashes 
+- Guests Leaving And Staying
 
 
 ### 🔹 OOPS (Object-Oriented Programming)
