@@ -1,4 +1,4 @@
-class Person {
+class Persona {
     private int age; // private variable
 
     public void setAge(int age) { // public setter method
@@ -12,7 +12,7 @@ class Person {
 
 public class Encapsulation {
     public static void main(String[] args) {
-        Person p = new Person();
+        Persona p = new Persona();
         p.setAge(22);
         System.out.println("The age is " + p.getAge());
     }
