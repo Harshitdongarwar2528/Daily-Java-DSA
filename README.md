@@ -30,6 +30,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Leap Year
 - Maximum & Minimum Number 
 - Reverse the digit 
+- Fibonacci Series upto N
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -59,6 +60,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Ascending & Descending Order  
 - Character Frequency (using HashMap)  
 - String Frequency (using counting)
+- Counting vowels, consonants and whitespaces
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
