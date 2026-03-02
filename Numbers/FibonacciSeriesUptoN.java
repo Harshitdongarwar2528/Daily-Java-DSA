@@ -1,6 +1,6 @@
 package Numbers;
 
-public class FibonnaciSeriesUptoN {
+public class FibonacciSeriesUptoN{
     public static void main(String[] args) {
         int n = 5;
 
