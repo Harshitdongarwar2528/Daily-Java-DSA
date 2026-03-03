@@ -31,6 +31,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Maximum & Minimum Number 
 - Reverse the digit 
 - Fibonacci Series upto N
+- Factorial Number
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -61,6 +62,8 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Character Frequency (using HashMap)  
 - String Frequency (using counting)
 - Counting vowels, consonants and whitespaces
+- Find the ASCII Value
+- Removal Of Vowels in a String
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
