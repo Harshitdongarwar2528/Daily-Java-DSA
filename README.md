@@ -32,6 +32,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Reverse the digit 
 - Fibonacci Series upto N
 - Factorial Number
+- Power of the Number
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -63,13 +64,15 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - String Frequency (using counting)
 - Counting vowels, consonants and whitespaces
 - Find the ASCII Value
-- Removal Of Vowels in a String
+- Removal Of Vowels
+- Removal Of Blank Spaces 
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
 - Vehicles Tow Wheelers as well as Four wheelers
 - Stars And Hashes 
 - Guests Leaving And Staying
+- Check the number is Greater than Prior Number or Not
 
 
 ### 🔹 OOPS (Object-Oriented Programming)
