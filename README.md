@@ -33,6 +33,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Fibonacci Series upto N
 - Factorial Number
 - Power of the Number
+- Factors Of the Given Number 
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -66,6 +67,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Find the ASCII Value
 - Removal Of Vowels
 - Removal Of Blank Spaces 
+- Removal Of Characters Except Alphabets
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
@@ -73,6 +75,7 @@ This folder contains various logic-building problems
 - Stars And Hashes 
 - Guests Leaving And Staying
 - Check the number is Greater than Prior Number or Not
+- Matrices problem Check the Row with More Parkings
 
 
 ### 🔹 OOPS (Object-Oriented Programming)
