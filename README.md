@@ -34,6 +34,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Factorial Number
 - Power of the Number
 - Factors Of the Given Number 
+- Prime Factors Of the Given Number 
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -68,6 +69,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Removal Of Vowels
 - Removal Of Blank Spaces 
 - Removal Of Characters Except Alphabets
+- Removal Of Brackets
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
@@ -76,7 +78,7 @@ This folder contains various logic-building problems
 - Guests Leaving And Staying
 - Check the number is Greater than Prior Number or Not
 - Matrices problem Check the Row with More Parkings
-
+- Finding of odd number ballons problem
 
 ### 🔹 OOPS (Object-Oriented Programming)
 **Inheritance**
