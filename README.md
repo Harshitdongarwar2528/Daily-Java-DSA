@@ -79,6 +79,7 @@ This folder contains various logic-building problems
 - Check the number is Greater than Prior Number or Not
 - Matrices problem Check the Row with More Parkings
 - Finding of odd number ballons problem
+- Most Fit Trainee 
 
 ### 🔹 OOPS (Object-Oriented Programming)
 **Inheritance**
