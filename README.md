@@ -35,6 +35,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Power of the Number
 - Factors Of the Given Number 
 - Prime Factors Of the Given Number 
+- A strong number or not
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -70,6 +71,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Removal Of Blank Spaces 
 - Removal Of Characters Except Alphabets
 - Removal Of Brackets
+- Sum of the number in a String
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
@@ -81,6 +83,8 @@ This folder contains various logic-building problems
 - Finding of odd number ballons problem
 - Number of Candies in a Jar
 - Most Fit Trainee 
+- Washing Machine Problem 
+- Caesar Cipher shifting problem
 
 ### 🔹 OOPS (Object-Oriented Programming)
 **Inheritance**
