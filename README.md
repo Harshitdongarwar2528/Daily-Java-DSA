@@ -36,6 +36,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Factors Of the Given Number 
 - Prime Factors Of the Given Number 
 - A strong number or not
+- Automorphhic Number or Not
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -72,6 +73,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Removal Of Characters Except Alphabets
 - Removal Of Brackets
 - Sum of the number in a String
+- Capitalisation of First And Last Letter
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
@@ -85,6 +87,7 @@ This folder contains various logic-building problems
 - Most Fit Trainee 
 - Washing Machine Problem 
 - Caesar Cipher shifting problem
+- Wall Painting Costs Estimate
 
 ### 🔹 OOPS (Object-Oriented Programming)
 **Inheritance**
