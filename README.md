@@ -37,6 +37,8 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Prime Factors Of the Given Number 
 - A strong number or not
 - Automorphhic Number or Not
+- GCD of two numbers
+- LCM of two numbers
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -74,6 +76,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Removal Of Brackets
 - Sum of the number in a String
 - Capitalisation of First And Last Letter
+- Anagarms 
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
