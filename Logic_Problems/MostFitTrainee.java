@@ -23,7 +23,6 @@
 // Trainee Number : 1
 // Trainee Number : 3
 
-
 package Logic_Problems;
 
 import java.util.Scanner;
@@ -43,6 +42,8 @@ public class MostFitTrainee {
 
                 if (trainee[i][j] < 1 || trainee[i][j] > 100) {
                     System.out.println("INVALID INPUT");
+                    sc.close();
+
                     return;
                 }
             }
@@ -64,6 +65,8 @@ public class MostFitTrainee {
 
         if (max < 70) {
             System.out.println("All trainees are unfit");
+            sc.close();
+
             return;
         }
 
