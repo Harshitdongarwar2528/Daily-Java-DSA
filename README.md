@@ -39,6 +39,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Automorphhic Number or Not
 - GCD of two numbers
 - LCM of two numbers
+- Harshad Number
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -91,6 +92,7 @@ This folder contains various logic-building problems
 - Washing Machine Problem 
 - Caesar Cipher shifting problem
 - Wall Painting Costs Estimate
+- City bus stops
 
 ### 🔹 OOPS (Object-Oriented Programming)
 **Inheritance**
