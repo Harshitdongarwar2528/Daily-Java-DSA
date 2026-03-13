@@ -145,8 +145,17 @@ Repeating Elements, Symmetric Pairs, Subarrays, Search Algorithms
 **Week 4 – Advanced Array Logic** ✅  
 Rank Replacement, Frequency Sort, Equilibrium Index
 
-**Week 5 – Number Problems** ✅  
-Prime, Palindrome, Armstrong, Ranges
+**Week 5 – Number Problems (Part 1)** ✅  
+Even/Odd, Prime, Palindrome, Armstrong
+
+**Week 6 – Number Problems (Part 2)** ⏳  
+GCD, LCM, Factors, Strong Number, Automorphic Number
+
+**Week 7 – String Problems** ⏳  
+Reverse String, Frequency, Vowels/Consonants, ASCII
+
+**Week 8 – Logic Building Problems** ⏳  
+Guests Problem, Vehicles, Candy Jar, Caesar Cipher
 
 ---
 
