@@ -40,6 +40,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - GCD of two numbers
 - LCM of two numbers
 - Harshad Number
+- Abundant Number
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
