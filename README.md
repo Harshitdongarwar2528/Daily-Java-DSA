@@ -41,6 +41,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - LCM of two numbers
 - Harshad Number
 - Abundant Number
+- sum of digits
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -78,7 +79,8 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Removal Of Brackets
 - Sum of the number in a String
 - Capitalisation of First And Last Letter
-- Anagarms 
+- Anagarms
+- Maximum Occuring Character
 
 ### 🔹 Logic_Problems
 This folder contains various logic-building problems
