@@ -1,3 +1,5 @@
+// An abundant number is a number whose sum of its proper divisors is greater than the number itself.
+
 package Numbers;
 
 import java.util.*;
