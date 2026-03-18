@@ -42,6 +42,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Harshad Number
 - Abundant Number
 - sum of digits
+- Sum in the given Range
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
