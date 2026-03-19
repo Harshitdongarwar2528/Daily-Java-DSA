@@ -1,3 +1,4 @@
+// A perfect number is a positive integer that is equal to the sum of its proper divisors (all its divisors except itself)
 package Numbers;
 
 public class PerfectNo {
