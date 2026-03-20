@@ -1,3 +1,4 @@
+// A strong number is a number whose sum of the factorials of its digits is equal to the number itself.
 package Numbers;
 
 public class StrongNo {
