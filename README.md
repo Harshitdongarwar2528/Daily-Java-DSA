@@ -121,7 +121,7 @@ This folder contains various logic-building problems
 
 ### 🔹Number System
 - Binaru To Decimal
---- 
+---  
 
 ## 🛠️ Language Used
 - **Java**
