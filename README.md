@@ -43,6 +43,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Abundant Number
 - sum of digits
 - Sum in the given Range
+- Addition Of Two Fractions
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
@@ -118,6 +119,8 @@ This folder contains various logic-building problems
 - Bubble Sort  
 - Selection Sort  
 
+### 🔹Number System
+- Binaru To Decimal
 ---
 
 ## 🛠️ Language Used
