@@ -126,7 +126,7 @@ This folder contains various logic-building problems
 ## 🛠️ Language Used
 - **Java**
 
----
+--- 
 
 ## 📌 Practice Strategy
 - Problems are solved using **multiple approaches** where possible  
