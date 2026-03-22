@@ -44,6 +44,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - sum of digits
 - Sum in the given Range
 - Addition Of Two Fractions
+- Area Of Circle
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
