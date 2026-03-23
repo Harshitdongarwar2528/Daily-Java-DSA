@@ -20,11 +20,10 @@ import java.util.Scanner;
 
 public class NoOfCandyInAJar {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         int n = 10;
         int k = 5;
-        int candy;
-        Scanner sc = new Scanner(System.in);
-        candy = sc.nextInt();
+        int candy = sc.nextInt();
 
         if (candy > n || n - candy < k) {
             System.out.println("Invalid Input");
