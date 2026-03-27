@@ -99,6 +99,8 @@ This folder contains various logic-building problems
 - Caesar Cipher shifting problem
 - Wall Painting Costs Estimate
 - City bus stops
+- Unique Elements
+- Sum of Natural Numbers 
 
 ### 🔹 OOPS (Object-Oriented Programming)
 **Inheritance**
