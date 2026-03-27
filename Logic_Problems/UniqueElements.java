@@ -1,3 +1,28 @@
+// Q. In the intergalactic archive of Planet Xyphor, two ancient data crystals 
+// a[] and b[] store encrypted energy signatures. Due to cosmic duplication 
+// anomalies, many signatures may repeat within and across the crystals.
+//
+// The Galactic Council must compute the total number of distinct energy 
+// signatures present when both crystals are merged into a unified repository.
+//
+// If a signature appears multiple times, it must be counted only once.
+//
+// Your task is to determine the number of unique energy signatures 
+// after combining both arrays.
+//
+// Example:
+// Input:
+// a[] = [1, 2, 3, 4, 5]
+// b[] = [1, 2, 3]
+//
+// Output:
+// 5
+//
+// Explanation:
+// After merging both arrays → [1,2,3,4,5,1,2,3]
+// Distinct elements → [1,2,3,4,5]
+// Count = 5
+
 package Logic_Problems;
 import java.util.*;
 
