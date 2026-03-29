@@ -45,6 +45,7 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Sum in the given Range
 - Addition Of Two Fractions
 - Area Of Circle
+- Replace Zero with One
 
 ### 🔹 Arrays
 - Largest / Smallest Element  
