@@ -1,3 +1,4 @@
+// A Harshad number (also called a Niven number) is an integer that is divisible by the sum of its digits.
 package Numbers;
 import java.util.*;
 
