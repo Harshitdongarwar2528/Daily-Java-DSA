@@ -1,3 +1,4 @@
+// An Automorphic number is a number whose square ends with the same digits as the number itself.
 package Numbers;
 
 class Auto {
