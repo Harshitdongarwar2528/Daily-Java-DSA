@@ -68,7 +68,8 @@ I am starting from the basics and gradually moving toward advanced problems for 
 - Replace Each Element by Its Rank  
 - Frequency Sort  
 - Equilibrium Index  
-- Custom Sort  
+- Custom Sort 
+- Kadence Algorithm 
 
 ### 🔹 Strings
 - Reverse String  
@@ -125,6 +126,7 @@ This folder contains various logic-building problems
 
 ### 🔹Number System
 - Binaru To Decimal
+- Decimal To Binary
 ---  
 
 ## 🛠️ Language Used
